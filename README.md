@@ -32,13 +32,13 @@
 
   * Turn on the EEG
 
-  * CGX acquisition software and connect to the EEG
+  * CGX acquisition software and connect to the EEG (This is under 'Device' and there under 'Discovered Divices'. The eeg must then be selected and connect clicked.)
   
-  * Set up the electrodes/ EEG so that there is a good connection.
+  * Set up the electrodes/ EEG so that there is a good connection (The status of the electrodes can be seen under 'Channels' Red means no connection, light green is semi good, dark green is perfect. EXT channel is always red.)
 
-  * Start the RDA Server and the Lab Streaming Layer via the CGX acquisition software
+  * Start the RDA Server and the Lab Streaming Layer via the CGX acquisition software (Under 'Device' at the very bottom)
   
-  * Start the Psychopy experiment and collect your data.
+  * Start the Psychopy experiment and collect your data
   
   
   
