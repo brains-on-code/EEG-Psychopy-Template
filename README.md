@@ -34,7 +34,7 @@
 
   * CGX acquisition software and connect to the EEG
   
-  * Set up the electrodes so that there is a good connection.
+  * Set up the electrodes/ EEG so that there is a good connection.
 
   * Start the RDA Server and the Lab Streaming Layer via the CGX acquisition software
   
